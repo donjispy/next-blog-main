@@ -41,7 +41,7 @@ export default function FooterCom() {
                   target='_blank'
                   rel='noopener noreferrer'
                 >
-                  Sahand&apos;s Blog
+                  Raphael&apos;s Blog
                 </Footer.Link>
               </Footer.LinkGroup>
             </div>
